@@ -4,7 +4,7 @@ This repository contains all the projects that I have done in data analysis. I a
 ## Table of Contents
 ### [Python](1_Python)
 1. [Determining the Orientation of Magnetic Fields of Molecular Clouds based on Polarized Dust Observations](1_Python/1_Star_forming_regions)
-2. [Case Study: A data driven investment analysis](1_Python/2_Case-Study-A-data-driven-investment-analylsis)
+2. [Case Study: A data driven investment analysis](1_Python/2_Case-Study-A-data-driven-investment-analysis)
 3. [An Analysis of Berlin Marathon Runners](1_Python/3_berlin_marathon)
 4. [Asteroid 16 Psyche Light Curve Analysis](1_Python/4_16-Psyche)
 
