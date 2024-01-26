@@ -1,5 +1,5 @@
 # Case study: A data-driven investment analysis
-
+All main analysis files are found in the [data_analysis](data_analysis) folder.
 ## Introduction
 The purpose of this analysis is to explore variables of the financials of stocks to determine best ratios that result with low volatility and good returns, with the aim of enhancing portfolio development. The structure of this study is heavily infulenced by the methodology used in [Quantative Stratagies for Measuring Alpha](https://www.amazon.ca/Quantitative-Strategies-Achieving-Alpha-McGraw-Hill-ebook/dp/B001JKV93W/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)(1). Specifically, we will look at Cash Flow factors, namely <ins>Operating Cash Flow and Capex</ins>. For a company to be considered a good investment, solid earnings are essential. We will use the ratio Operating Cash Flow to Capex, to determine what the optimal ratio is that yields high returns. Note that this is not necessarily a standalone strategy, rather, it's purpose is to determine how the management of cash affects overall returns. The results from this analysis, paired with other relavant stratagies, can contribute to the development of a strong portfolio.
 
