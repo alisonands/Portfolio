@@ -3,6 +3,10 @@ This dashboard can be accessed by running the following in the terminal:
 ```
 panel serve running_final.py
 ```
+after running the code [here](running_final.py)
+### Main files:
+- [Running analysis](running_final.ipynb)
+
 ![Dashboard](dashboard.png)
 - What is the Berlin marathon?
     - The Berlin marathon is a global marathon held yearly in Berlin, Germany since 1974. The dataset in used includes running times since the marathon's inception, and we delve into how some trends in running speeds have changed over time, and what factors play into lower running times.
