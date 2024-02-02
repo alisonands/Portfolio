@@ -1,5 +1,10 @@
 # Kickstarter Campaign
-A small project focused on analysing and visualizing data using SQL, Python and Microsoft Excel. Compiled in LaTeX.
+A project focused on analysing and visualizing data using SQL, Python and Microsoft Excel. Compiled in LaTeX.
+
+### Table of contents
+- [Report](3_SQL/1_crowdfunding/andrade_kickstarter/andrade_kickstarter.pdf)
+- [SQL analysis](3_SQL/1_crowdfunding/andrade_kickstarter/kickstarter.sql)
+- [Python analysis and visualization](3_SQL/1_crowdfunding/andrade_kickstarter/py_kickstarter.ipynb)
 
 ## Summary 
 The report focuses on the requirements to achieve funding goals for a board game company through a Kickstarter campaign. It analyzes data from previous campaigns to identify patterns for success, emphasizing the importance of setting a reasonable goal and duration. The analysis reveals that campaigns with lower goals tend to be more successful.
