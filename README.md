@@ -12,4 +12,4 @@ This repository contains all the projects that I have done in data analysis. I a
 1. [Calcualting Historical Stock market Data in VBA](2_Excel/excel_vbas)
 
 ### [SQL](3_SQL)
-2. [Kickstarter crowfunding analysis](3_SQL/1_crowdfunding)
+1. [Kickstarter crowfunding analysis](3_SQL/1_crowdfunding)
