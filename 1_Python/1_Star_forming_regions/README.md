@@ -1,7 +1,9 @@
 # Summary 
 ##### Analysis files:
 ###### Vela C
-1. [s dispersion (whole cloud)](vela_C)
+1. [s dispersion (whole cloud)](vela_C/code/1_S_dispersion_whole_cloud.ipynb)
+2. [s dispersion (subregions)](vela_C/code/2_S_dispersion_subregions.ipynb)
+3. [Inclination angles](vela_C/code/3_S&p_gamma.ipynb)
 
 ###### Orion
 1. [Column Density](orion/orion_code/1_orionA_col_density.ipynb)
