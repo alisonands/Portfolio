@@ -1,6 +1,6 @@
 # Anime and Manga Dataset Analysis and Random Generator Recommendation
 ## Project Overview
-This project involves the analysis of anime and manga datasets obtained from MyAnimeList, utilizing weighted averages on various metrics to determine rankings. Additionally, a random generator has been added to recommend anime and manga, which outputs randomly selected title along with its ranking based on calculated weighted averages.
+This project involves the analysis of anime and manga datasets obtained from MyAnimeList, using weighted averages on various metrics to determine rankings. Additionally, a random generator has been added to recommend anime and manga, which outputs randomly selected title along with its ranking based on calculated weighted averages.
 
 ### Anime Analysis
 - Anime titles are ranked based on weighted averages, considering both the Score and total number of votes.
