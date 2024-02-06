@@ -1,7 +1,7 @@
 ## Python
 This repository contains all projects I have worked on in Python.
 
-### [Projects](1_Python)
+### Projects
 1. [Determining the Orientation of Magnetic Fields of Molecular Clouds based on Polarized Dust Observations](1_Star_forming_regions)
 2. [Case Study: A data driven investment analysis](2_Case-Study-A-data-driven-investment-analysis)
 3. [An Analysis of Berlin Marathon Runners](3_berlin_marathon)
