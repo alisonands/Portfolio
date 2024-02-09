@@ -1,0 +1,2 @@
+# Covid analysis
+A short analysis in SQL that gathers data from a Covid API and analyses it in SQL, looking at the cases in Canada, and the total number of casualties, vaccinations, fatalities, and correlations.
