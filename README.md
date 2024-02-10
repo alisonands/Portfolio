@@ -15,3 +15,4 @@ This repository contains all the projects that I have done in data analysis. I a
 
 ### [SQL](3_SQL)
 1. [Kickstarter crowfunding analysis](3_SQL/1_crowdfunding)
+2. [Canada Covid-19 analysis](3_SQL/2_covid)
