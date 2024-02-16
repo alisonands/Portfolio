@@ -7,7 +7,7 @@ This repository contains all the projects that I have done in data analysis. I a
 2. [Case Study: A data driven investment analysis](1_Python/2_Case-Study-A-data-driven-investment-analysis)
 3. [An Analysis of Berlin Marathon Runners](1_Python/3_berlin_marathon)
 4. [Anime and Manga Dataset Analysis (+Random Generator Recommendation!)](1_Python/data_analysis/1_anime_data)
-5. [WeatherPy](1_Python/WeatherPy)
+5. [WeatherPy](1_Python/5_WeatherPy)
 6. [Asteroid 16 Psyche Light Curve Analysis](1_Python/4_16-Psyche)
 
 ### [Excel](2_Excel)
