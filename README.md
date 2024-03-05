@@ -26,7 +26,7 @@ This repository contains a series of assignments completed as part of a Data Ana
 - HTML/CSS
 - Flask
 - Plotly
-- 1. [**Pandas Data Analysis**](Data-Analytics/1-data-analysis-pandas): Utilized Pandas DataFrames to analyze school and standardized test data.
+1. [**Pandas Data Analysis**](Data-Analytics/1-data-analysis-pandas): Utilized Pandas DataFrames to analyze school and standardized test data.
 2. [**Matplotlib Visualization**](Data-Analytics/2-pymaceuticals-matplotlib): Created visualizations using Matplotlib to explore and analyze data from different sources.
 3. [**BeautifulSoup Web Scraping and Data Analysis**](Data-Analytics/5-scraping-mars-data): Conducted web scraping to gather data and performed analysis using BeautifulSoup and Pandas.
 4. [**Interactive Web Visualizations**](Data-Analytics/7-leaflet-challenge): Developed interactive web visualizations using D3.js and Leaflet.js to visualize earthquake and biodiversity data.
