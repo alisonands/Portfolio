@@ -7,7 +7,7 @@ This repository contains all the projects that I have done in data analysis. I a
 2. [An Analysis of Berlin Marathon Runners](1_Python/4_berlin_marathon)
 3. [WeatherPy](1_Python/6_WeatherPy)
 4. [**Earthquake Visualizations**](https://alisonands.github.io/earthquakes-leaflet/)
-   i. [repo](Data-Analytics/7-leaflet-challenge)
+([repo](Data-Analytics/7-leaflet-challenge))
 5. [Stock Market Analysis](https://github.com/alisonands/Stock-Analysis)
 [**Interactive Web Visualizations**](Data-Analytics/7-leaflet-challenge): Developed interactive web visualizations using D3.js and Leaflet.js to visualize earthquake and biodiversity data.
 
