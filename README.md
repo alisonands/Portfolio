@@ -6,7 +6,9 @@ This repository contains all the projects that I have done in data analysis. I a
 1. [Case Study: A data driven investment analysis](1_Python/1_Case-Study-A-data-driven-investment-analysis)
 2. [An Analysis of Berlin Marathon Runners](1_Python/4_berlin_marathon)
 3. [WeatherPy](1_Python/6_WeatherPy)
-4. [Stock Market Analysis](https://github.com/alisonands/Stock-Analysis)
+4. 4. [**Earthquake Visualizations**](https://alisonands.github.io/earthquakes-leaflet/)[repo](Data-Analytics/7-leaflet-challenge)
+5. [Stock Market Analysis](https://github.com/alisonands/Stock-Analysis)
+[**Interactive Web Visualizations**](Data-Analytics/7-leaflet-challenge): Developed interactive web visualizations using D3.js and Leaflet.js to visualize earthquake and biodiversity data.
 
 ### [Excel](2_Excel)
 1. [Calcualting Historical Stock market Data in VBA](2_Excel/excel_vbas)
@@ -34,6 +36,5 @@ This repository contains a series of assignments completed as part of a Data Ana
 1. [**Pandas Data Analysis**](Data-Analytics/1-data-analysis-pandas): Utilized Pandas DataFrames to analyze school and standardized test data.
 2. [**Matplotlib Visualization**](Data-Analytics/2-pymaceuticals-matplotlib): Created visualizations using Matplotlib to explore and analyze data from different sources.
 3. [**BeautifulSoup Web Scraping and Data Analysis**](Data-Analytics/5-scraping-mars-data): Conducted web scraping to gather data and performed analysis using BeautifulSoup and Pandas.
-4. [**Interactive Web Visualizations**](Data-Analytics/7-leaflet-challenge): Developed interactive web visualizations using D3.js and Leaflet.js to visualize earthquake and biodiversity data.
-5. [**Database Management**](Data-Analytics/4-climate-analysis-SQLAlchemy): Designed database schemas and performed data engineering tasks using SQL and SQLAlchemy.
-6. [**Dashboard Development**](Data-Analytics/6-belly-button-dataset-dashboard): Built interactive dashboards to explore and visualize data using Flask and Plotly.
+4. [**Database Management**](Data-Analytics/4-climate-analysis-SQLAlchemy): Designed database schemas and performed data engineering tasks using SQL and SQLAlchemy.
+5. [**Dashboard Development**](Data-Analytics/6-belly-button-dataset-dashboard): Built interactive dashboards to explore and visualize data using Flask and Plotly.
