@@ -6,7 +6,6 @@ This repository contains all the projects that I have done in data analysis. I a
 1. [Case Study: A data driven investment analysis](1_Python/1_Case-Study-A-data-driven-investment-analysis)
 2. [An Analysis of Berlin Marathon Runners](1_Python/4_berlin_marathon)
 3. [WeatherPy](1_Python/6_WeatherPy)
-4. [Asteroid 16 Psyche Light Curve Analysis](1_Python/7_16-Psyche)
 
 ### [Excel](2_Excel)
 1. [Calcualting Historical Stock market Data in VBA](2_Excel/excel_vbas)
@@ -14,6 +13,13 @@ This repository contains all the projects that I have done in data analysis. I a
 ### [SQL](3_SQL)
 1. [Kickstarter crowfunding analysis](3_SQL/1_crowdfunding)
 2. [Canada Covid-19 analysis](3_SQL/2_covid)
+
+### [Physics and Astronomy](Physics_&_Astronomy)
+This section contains a series of quantative analyses done mainly in Python through my Bachelor's in Astrophysics.
+1. [Determining the Orientation of Magnetic Fields in Star Forming Regions](Physics_&_Astronomy/1_Star_forming_regions)
+2. [Fourier analysis using coupled oscillators](Physics_&_Astronomy/2_fourier_Analysis)
+3. [Square Step Potential](Physics_&_Astronomy/3_square_step_potential)
+4. [Asteroid 16 Psyche Light Curve Analysis](Physics_&_Astronomy/4_16-Psyche)
 
 ### [Data Analytics](Data-Analytics)
 This repository contains a series of assignments completed as part of a Data Analytics program. These assignments demonstrate proficiency in various data analysis techniques, visualization tools, and programming languages commonly used in the field of data analytics.
