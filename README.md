@@ -6,6 +6,7 @@ This repository contains all the projects that I have done in data analysis. I a
 1. [Case Study: A data driven investment analysis](1_Python/1_Case-Study-A-data-driven-investment-analysis)
 2. [An Analysis of Berlin Marathon Runners](1_Python/4_berlin_marathon)
 3. [WeatherPy](1_Python/6_WeatherPy)
+4. [Stock Market Analysis](https://github.com/alisonands/Stock-Analysis)
 
 ### [Excel](2_Excel)
 1. [Calcualting Historical Stock market Data in VBA](2_Excel/excel_vbas)
