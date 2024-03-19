@@ -9,7 +9,7 @@ This repository contains all the projects that I have done in data analysis. I a
 4. [**Earthquake Visualizations**](https://alisonands.github.io/earthquakes-leaflet/)
 ([repo](Data-Analytics/7-leaflet-challenge))
 5. [Stock Market Analysis](https://github.com/alisonands/Stock-Analysis)
-[**Interactive Web Visualizations**](Data-Analytics/7-leaflet-challenge): Developed interactive web visualizations using D3.js and Leaflet.js to visualize earthquake and biodiversity data.
+6. [**Interactive Web Visualizations**](Data-Analytics/7-leaflet-challenge): Developed interactive web visualizations using D3.js and Leaflet.js to visualize earthquake and biodiversity data.
 
 ### [Excel](2_Excel)
 1. [Calcualting Historical Stock market Data in VBA](2_Excel/excel_vbas)
