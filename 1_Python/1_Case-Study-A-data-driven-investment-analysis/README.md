@@ -26,7 +26,7 @@ In the daily operations of a business, a certain level of expenditures is requir
 - For each year, the the stocks are ranked based on the operating cash flow to capex ratio.
 
 3. Quintile assignment:
-- The ranked list is then divided into quintiles, where the first quntile has the highest ratios of Operating Cash Flow to Capex and the fifth quintile has the lowest ratios.
+- The ranked list is then divided into quintiles, where the first quintile has the highest ratios of Operating Cash Flow to Capex and the fifth quintile has the lowest ratios.
 
 4. Analysis:
 - The returns based on the historical data is calculated for each quintile. 
