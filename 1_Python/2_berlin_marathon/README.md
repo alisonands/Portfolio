@@ -3,9 +3,9 @@ This dashboard can be accessed by running the following in the terminal:
 ```
 panel serve running_final.py
 ```
-after running the code [here](running_final.py)
+
 ### Main files:
-- [Running analysis](running_final.ipynb)
+- [running_final.py]
 
 ## Summary
 ![Dashboard](dashboard.png)
