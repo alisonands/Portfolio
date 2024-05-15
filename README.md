@@ -27,8 +27,9 @@ This section contains a series of quantative analyses done mainly in Python thro
 ### [Data Analytics](Data-Analytics)
 This repository contains a series of assignments completed as part of a Data Analytics program. These assignments demonstrate proficiency in various data analysis techniques, visualization tools, and programming languages commonly used in the field of data analytics.
 #### Main tools:
-- Python (Pandas, Matplotlib, BeautifulSoup)
+- Python (Pandas, Matplotlib, BeautifulSoup, SQLalchemy, sklearn, Tensorflow)
 - SQL (PostgreSQL, SQLite, SQLAlchemy)
+- MongoDB, Hadoop
 - JavaScript (D3.js, Leaflet.js, Plotly)
 - HTML/CSS
 - Flask
