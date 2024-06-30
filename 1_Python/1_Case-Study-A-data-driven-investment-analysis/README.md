@@ -51,7 +51,7 @@ We should also note that quintiles 2, 4, and 5 also yield good returns, and pair
 - Some stocks do not have data for as long as others
 
 ## Conclusion
-In conclusion, the Operating Cash Flow to Capex ratio is a valuable metric for assessing a company's financial health. While Quintile 1 showed poor excess returns, its stability makes it an interesting area for further investigation. The findings contribute to a nuanced understanding of the relationship between cash management and stock performance, offering insights for constructing a resilient investment portfolio.
+In conclusion, the Operating Cash Flow to Capex ratio is a valuable metric for assessing a company's financial health. While Quintile 5 showed poor excess returns, its stability makes it an interesting area for further investigation. The findings contribute to a nuanced understanding of the relationship between cash management and stock performance, offering insights for constructing a resilient investment portfolio.
 
 ## References
 [1.] (Quantative Stratagies for measuring Alpha)
